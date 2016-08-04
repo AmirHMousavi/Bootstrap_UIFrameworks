@@ -85,7 +85,12 @@ body{
 .modal{
     color: black
 }
-#callAlertLink{
-    color: darkblue
-    
+#callAlertLink:hover{
+    color: darkblue;
+    font-size:150%;
+}
+#carouselButtons{
+    right: 0px;
+    position: absolute;
+    bottom: 0px;
 }
